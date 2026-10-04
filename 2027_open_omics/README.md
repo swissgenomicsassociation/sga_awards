@@ -8,27 +8,73 @@ The emphasis is on progress with lasting collective value: advances that address
 
 The awards reflect the principles of the [Swiss Genomics Association](https://www.swissgenomicsassociation.ch/): scientific ambition guided by evidence, shared standards, responsible implementation, open reflection, and long-term benefit.
 
+## Awards
+
+Two awards will be presented in 2027:
+
+- **Swiss Open Omics Award:** recognising an outstanding contribution with a meaningful connection to the Swiss genomics and omics community.
+- **International Open Omics Award:** recognising an outstanding contribution from the wider international genomics and omics community.
+
 ## Nominations
 
 Anyone may submit a nomination, and **self-nominations are encouraged**.
 
-We welcome nominations from all backgrounds including industry, academia, healthcare, public organisations, non-profit initiatives, community projects, and individuals.
+We welcome nominations from all backgrounds, including industry, academia, healthcare, public organisations, non-profit initiatives, community projects, and individuals.
+
+Contributions may include scientific methods, standards, software, infrastructure, reference resources, clinical implementations, interoperability initiatives, community resources, enabling technologies, or other work that has materially advanced what is possible in genomics or omics.
+
+The contribution does not need to originate directly within genomics or omics. Advances from other fields may be considered where they have substantially enabled progress in these areas.
 
 To nominate a contribution, email [admin@swissgenomicsassociation.ch](mailto:admin@swissgenomicsassociation.ch) with:
 
 ```text
-Name:  
-Short description:  
-URL:  
+Award category: Swiss / International
 
-Nominee or project contact:  
-Contact email:  
+Name:
+Short description:
+URL:
 
-Your name:  
-Your email:  
+Nominee or project contact:
+Contact email:
+
+Your name:
+Your email:
 ```
 
-After receiving a nomination, SGA will contact an appropriate recipient, maintainer, representative, or project lead to confirm that they are willing to participate as a nominee. Only confirmed nominees are added to the public nominee list. Winners will be invited for the award ceramony at [the 2027 meeting](https://github.com/swissgenomicsassociation/sga_events/tree/main/2027/meeting_1) but a short video call or message will be offered if they cannot attend. 
+Contact information will be retained privately only for the award management and will not published.
+
+After receiving a nomination, SGA will contact an appropriate recipient, maintainer, representative, or project lead to confirm that they are willing to participate as a nominee.
+
+Confirmed nominations will be listed publicly in recognition of the contribution:
+
+```text
+Name - Short description - URL
+```
+
+## Important dates
+
+| Stage | Date |
+|---|---|
+| Nominations open | December 2027 |
+| Nominations close | 28 February 2027 |
+| Review and judging | March 2027 |
+| Award recipients announced | 7 April 2027 |
+
+The awards will be presented at [SGA meeting 1](https://github.com/swissgenomicsassociation/sga_events/tree/main/2027/meeting_1).
+
+Recipients will be invited to attend the award ceremony. Where attendance is not possible, participation by a short video call or recorded message will be offered.
+
+## Confirmed nominees
+
+Confirmed nominees will be added here during the nomination period. The list will normally be updated weekly.
+
+### Swiss Open Omics Award
+
+To be announced.
+
+### International Open Omics Award
+
+To be announced.
 
 ## Principles
 
@@ -43,17 +89,53 @@ SGA awards are guided by several broad considerations:
 
 Open access, open-source development, reproducibility, transparency, and shared standards can be important means of achieving these aims. They are valued for the extent to which they strengthen collective progress and allow advances to be understood, adopted, tested, and extended.
 
-Award recipients are selected through expert assessment and deliberation. The purpose is not to identify the most popular contribution, but to recognise work judged to have substantially strengthened the foundations or future possibilities of omics.
+Adoption and popularity may provide evidence of value, but they do not determine the award. New or emerging contributions may represent important advances before widespread adoption has occurred.
+
+## Judging
+
+Award recipients will be selected by a judging panel convened by the Swiss Genomics Association.
+
+Selection is based on expert assessment and deliberation. The purpose is not to identify the most popular contribution, but to recognise work judged to have substantially strengthened the foundations or future possibilities of omics.
+
+Judges will consider the award principles together rather than treating the process as a purely numerical competition.
+
+SGA members may be nominated.
+A person directly responsible for a confirmed nominee may not serve on the judging panel for that award cycle. Judges must disclose relevant conflicts of interest and recuse themselves from assessment where a relationship could reasonably affect impartial judgement.
+
+The 2027 judging panel will be announced here.
 
 ## Supporting the awards
 
-The SGA welcomes support from organisations that share an interest in the responsible and long-term advancement of omics.
-Support for an award does not confer influence over nominations, judging, ranking, or selection of recipients. Scientific and community recognition remain independent of financial or in-kind support.
-Organisations interested in supporting an SGA award may contact [admin@swissgenomicsassociation.ch](mailto:admin@swissgenomicsassociation.ch).
+The SGA welcomes financial or in-kind support from organisations that share an interest in the responsible and long-term advancement of genomics and omics.
+
+Support may contribute to the award programme, recipient participation, travel, the award ceremony, and hosting costs.
+
+Supporting organisations will be acknowledged publicly on this page and in connection with the award ceremony. 
+
+Support for an award does not confer influence over nominations, eligibility decisions, judging, ranking, or selection of recipients. Scientific and community recognition remain independent of financial or in-kind support.
+
+Organisations interested in supporting the 2027 awards may contact [admin@swissgenomicsassociation.ch](mailto:admin@swissgenomicsassociation.ch).
+
+### Supporting organisations
+
+To be announced.
+
+## Award recipients
+
+Recipients will be announced on 7 April 2027 and recorded permanently here.
+
+### Swiss Open Omics Award
+
+To be announced.
+
+### International Open Omics Award
+
+To be announced.
 
 ## Swiss Genomics Association
 
 The Swiss Genomics Association is a national collaboration bringing together expertise from academia, healthcare, industry, public institutions, and the wider omics community.
+
 Its purpose is to support coordinated progress in omics through shared standards, evidence-based guidance, interoperability, responsible implementation, and long-term scientific foresight.
 
 - [Website](https://www.swissgenomicsassociation.ch/)
