@@ -1,12 +1,20 @@
-# SGA Open Omics Awards 2027
+---
+title: "SGA Open Omics Awards 2027"
+layout: page
+description: "Recognising contributions with lasting collective value across genomics and omics."
+permalink: "/awards/2027/open-omics/"
+lang: en
+---
 
-The Swiss Genomics Association awards recognise contributions that meaningfully advance what the genomics community can achieve.
+The Swiss Genomics Association awards recognise contributions that meaningfully advance what the genomics and omics community can achieve and create foundations that others can build upon.
 
-We seek work that moves the field forward and helps establish a stronger shared foundation for what comes next. This may include scientific methods, standards, software, infrastructure, reference resources, clinical implementation, interoperability efforts, or other contributions that create capabilities others can build upon.
+**Open Omics describes an ecosystem in which knowledge, systems and products can connect, be understood and work together across organisations.** It allows companies and institutions to remain free to use their own software, methods and intellectual property.
 
-The emphasis is on progress with lasting collective value: advances that address important problems, improve how genomics can be practised across institutions and disciplines, and help turn new capabilities into reliable foundations rather than problems that each generation must solve again.
+For example, a biotechnology company may develop an advanced new genomic product, while hospitals remain uncertain whether they can use or trust its outputs because the formats, evidence structures or interfaces are incompatible with their own systems. Shared standards can remove that barrier without requiring the company to disclose its proprietary methods.
 
-The awards reflect the principles of the [Swiss Genomics Association](https://www.swissgenomicsassociation.ch/): scientific ambition guided by evidence, shared standards, responsible implementation, open reflection, and long-term benefit.
+We therefore seek contributions with lasting collective value. These may include scientific methods, standards, software, infrastructure, reference resources, clinical implementations, interoperability efforts, enabling technologies, or other advances that improve what becomes possible across genomics and omics.
+
+The awards reflect the principles of the [Swiss Genomics Association](https://www.swissgenomicsassociation.ch/): scientific ambition guided by evidence, shared standards, interoperability, responsible implementation, open reflection, and long-term benefit.
 
 ## Awards
 
@@ -60,7 +68,7 @@ Name - Short description - URL
 | Review and judging | March 2027 |
 | Award recipients announced | 7 April 2027 |
 
-The awards will be presented at [SGA meeting 1](https://github.com/swissgenomicsassociation/sga_events/tree/main/2027/meeting_1).
+The awards will be presented at [SGA 2027 seminar](/events/2027/seminar-1).
 
 Recipients will be invited to attend the award ceremony. Where attendance is not possible, participation by a short video call or recorded message will be offered.
 
